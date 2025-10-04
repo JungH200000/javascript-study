@@ -1,16 +1,9 @@
-const CUT_OFF = 80;
+// # Spread 구문 (Spread Syntax)
 
-function passChecker(score) {
-  //return score > CUT_OFF ? '합격!' : '불합격!';
-  if (score > CUT_OFF) {
-    const msg = '합격!';
-    return msg;
-  } else {
-    for (let i = 0; i < 3; i++) {
-      console.log(i);
-    }
-    return '불합격!';
-  }
-}
+const webPublishing = ['HTML', 'CSS'];
+const interativeWeb = [...webPublishing];
 
-console.log(passChecker(70));
+interativeWeb.push('JavaScript');
+
+console.log(webPublishing);
+console.log(interativeWeb);
