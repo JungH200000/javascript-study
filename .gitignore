@@ -7,4 +7,6 @@ src/js05-Async-js/functions.js
 src/js05-Async-js/asyncFunctions.js
 
 src/js06-js-requests/main.js
+src/js06-js-requests/api.js
 src/js06-js-requests/practice/main.js
+src/js06-js-requests/practice/api.js
