@@ -8,27 +8,40 @@ JavaScript 학습 내용을 기록하고 정리하는 저장소입니다.
 
 ## 🗂️ 학습 목차 & 진행 현황
 
-### Part 1: Basic JavaScript
+### Part 1: Basic JavaScript (`js01-basic`)
 
 - JavaScript 기본기
 
-[프로그래밍 시작 in JavaScript](./js01-basic/)
+|      학습 내용 및 실습 코드 (`src`)       |
+| :---------------------------------------: |
+| [JavaScript 기본 개념](./src/js01-basic/) |
 
 ---
 
-### part 2: Key Concepts JavaScript
+### part 2: Key Concepts JavaScript (`js02-key-concepts`)
 
 - JavaScript의 자료형, 추상화, 제어문
 
 [프로그래밍 핵심 개념 in JavaScript](./js02-key-concepts/)
 
+|            학습 내용 및 실습 코드 (`src`)            |
+| :--------------------------------------------------: |
+|  [c1-자료형](./src/js02-key-concepts/c1-data-type/)  |
+| [c2-추상화](./src/js02-key-concepts/c2-abstraction/) |
+|   [c3-제어문](./src/js02-key-concepts/c3-control/)   |
+
 ---
 
-### part 3: Programming and Data in JavaScript
+### part 3: Programming and Data in JavaScript (`js03-programming-and-data`)
 
 - JavaScript의 객체와 자료형 심화
 
-[프로그래밍과 데이터](./js03-programming-and-data/)
+|                      학습 내용 및 실습 코드 (`src`)                      |
+| :----------------------------------------------------------------------: |
+|          [c1-객체](./src/js03-programming-and-data/c1-object/)           |
+|           [c2-배열](./src/js03-programming-and-data/c2-array/)           |
+| [c3-자료형 심화](./src/js03-programming-and-data/c3-advanced-data-type/) |
+|          [c4-복습](./src/js03-programming-and-data/c4-review/)           |
 
 ---
 
